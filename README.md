@@ -13,13 +13,20 @@ Presentation to the Client
 FINDINGS AND INSIGHTS
 Based on Data Analysis of Social Buzz Content Category, Reaction, and Reaction Types, Data insights are highlighted below:
 i.   The Total content count was 22,534
+
 ii.  The top five (5) content categories and their aggregate popularity are: Animal (68,624), Science (65,405), Healthy Eating (63,138), Technology (63,035), and Food (61,598)
+
 iii. There are 16 unique content categories in this analysis namely: Animal, Science, Healthy Eating, Technology, Food, Culture, Travel, Cooking, Soccer, Education, Fitness, Studying, Dogs, Tennis, Veganism, and Public Speaking
+
 iv. The most popular category which is the Animal category with reaction count of 1738, and a total reaction score of 68,624
+
 v.  The month with the most post is May with content type count of 1954, followed by January (1949), and August (1945)
+
 vi.  Furthermore, there was an average reaction score of 39.65
+
 vii. Social Buzz had 56% positive reaction sentiments, 31% negative reaction sentiments, and 13% neutral sentiments.
 
+RECOMMENDATIONS
 Social Buzz should leverage on customer’s reactions and engagement as regards their user-generated contents, with animal, science, healthy eating, technology, and food making the top 5 content category aggregate scores and focus on these content categories more in order to get more corresponding reactions from users. 
 
 
