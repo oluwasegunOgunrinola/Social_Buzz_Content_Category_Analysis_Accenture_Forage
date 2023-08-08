@@ -11,7 +11,9 @@ Data Visualization and Storytelling
 Presentation to the Client
 
 FINDINGS AND INSIGHTS
+
 Based on Data Analysis of Social Buzz Content Category, Reaction, and Reaction Types, Data insights are highlighted below:
+
 i.   The Total content count was 22,534
 
 ii.  The top five (5) content categories and their aggregate popularity are: Animal (68,624), Science (65,405), Healthy Eating (63,138), Technology (63,035), and Food (61,598)
