@@ -38,3 +38,5 @@ Social Buzz should leverage on customer’s reactions and engagement as regards 
 
 It was enjoyable working with Accenture's Data Analytics and Visualization Virtual Experience Program through Forage to create a dashboard for a Client via Forage.
 The dashboard presents charts and metrics that highlight significant performance indicators. Ultimately, this project emphasizes the value of effective dashboard design and data visualization for businesses.
+
+# Download pdf. and pbix. file for the detailed and comprehensive report
