@@ -11,7 +11,7 @@ Data Cleaning and Modeling
 Data Visualization and Storytelling
 Presentation to the Client
 
-![](./social_buzz_header.jpg).
+![](./social_buzz_header.JPG).
 
 FINDINGS AND INSIGHTS
 
