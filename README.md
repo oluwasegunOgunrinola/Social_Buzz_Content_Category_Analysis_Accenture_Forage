@@ -10,6 +10,8 @@ Data Cleaning and Modeling
 Data Visualization and Storytelling
 Presentation to the Client
 
+![](./social_buzz_header.jpg)
+
 FINDINGS AND INSIGHTS
 
 Based on Data Analysis of Social Buzz Content Category, Reaction, and Reaction Types, Data insights are highlighted below:
