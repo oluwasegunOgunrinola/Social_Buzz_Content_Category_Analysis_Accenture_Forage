@@ -2,6 +2,7 @@
 This visualization project showcases an analysis of Social Buzz’s content categories with their aggregate popularity": The client needs to oversee its scaling process effectively, and data analysis is needed to provide insights and recommendations.
 
 Data: From Accenture
+
 Tools: Microsoft Excel, Microsoft PowerPoint, and PowerBI
  
 KEY NOTES:
@@ -10,7 +11,7 @@ Data Cleaning and Modeling
 Data Visualization and Storytelling
 Presentation to the Client
 
-![](./social_buzz_header.jpg)
+![](./social_buzz_header.jpg).
 
 FINDINGS AND INSIGHTS
 
